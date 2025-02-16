@@ -52,8 +52,8 @@
 
 ### 🌎 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ongky-permana-882099315/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://instagram.com/your-username](https://www.instagram.com/ongky_ongg/#))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.vercel.app](https://portfolio-five-theta-46.vercel.app/#projects))  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ongky_ongg/#)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-theta-46.vercel.app/#projects)
 
 ---
 
